@@ -12,4 +12,5 @@
 ```html
 <link rel="stylesheet" href="https://raw.githubusercontent.com/Mohammadasdi/DisableADBlogfa/refs/heads/main/BlogfaAD.css">
 ```
+من پیشنهاد میکنم که هر دو کد لینک یعنی اولی با سومی رو حتما بزارین، که قطعی کار کنه براتون😊👌
 این کد همیشه بروزرسانی میشود!
