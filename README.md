@@ -8,7 +8,7 @@
 ```html
 <link rel="stylesheet" href="https://raw.githubusercontent.com/Mohammadasdi/DisableADBlogfa/refs/heads/main/BlogfaAD.css">
 ```
-من پیشنهاد میکنم که هر دو کد لینک یعنی اولی با سومی رو حتما بزارین، که قطعی کار کنه براتون😊👌
+من پیشنهاد میکنم که هر دو کد لینک رو حتما بزارین، که قطعی کار کنه براتون😊👌
 نکته: قالب بلاگفا نمیتونه درخواست رو مدیریت کنه، پس بیاین محتوا ها رو دقیقا اینجوری بزارین توی اول قالب!
 ```html
 <style>a[onclick*="style.display='none';"],img[src*="https://www.blogfa.com/b/"],img[title="تبلیغات"]{display:none!important}</style>
