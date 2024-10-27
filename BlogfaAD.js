@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("a[onclick*=\"style.display='none';\"]").forEach(function(e){e.style.display="none"}),document.querySelectorAll("img[title='تبلیغات']").forEach(function(e){e.style.display="none"}),document.querySelectorAll("img[src*='https://www.blogfa.com/b/']").forEach(function(e){e.style.display="none"})});
